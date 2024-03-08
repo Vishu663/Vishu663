@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vishu663
-- 👀 I’m interested in Web Dev and exploring different programming languages.
+- 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently pursuing Electronics and Telecommunciation Engineering(Undergraduate)
 - 💞️ I’m looking to collaborate on projects related to Web Dev.
 - 📫 How to reach me 9167408848 is my mobile no. and my mail id is vishalsanap663@gmail.com
