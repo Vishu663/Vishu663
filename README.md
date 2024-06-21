@@ -16,7 +16,7 @@ I'm <b>Vishal</b>, Frontend developer from 🇮🇳 Mumbai, India.</p>
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
 </span>
 <h2>Latest Posts</h2>
-<a href='https://www.linkedin.com/posts/vishal-sanap-83537119b_coding-javascript-dsa-activity-7209817583267549185-okWh?utm_source=share&utm_medium=member_desktop'>🔍 Solving DSA Problems: Kadane's Algorithm and More 🔍</a>
+<a href='https://www.linkedin.com/posts/vishal-sanap-83537119b_coding-javascript-dsa-activity-7209817583267549185-okWh?utm_source=share&utm_medium=member_desktop'>🔍 Solving DSA Problems: Kadane's Algorithm and More 🔍</a><br>
 <a href='https://www.linkedin.com/posts/vishal-sanap-83537119b_appreciation-post-for-the-conclusion-activity-7195316189001068544-7tw3?utm_source=share&utm_medium=member_desktop'>Appreciation Post for the Conclusion of Our BE Project!</a><br>
 <a href='https://www.linkedin.com/posts/vishal-sanap-83537119b_vishals-portfolio-activity-7194750699971239936-mORN?utm_source=share&utm_medium=member_desktop'>"Quick Update" : Just added my portfolio to the projects section.</a><br>
 <a href='https://www.linkedin.com/posts/vishal-sanap-83537119b_typescript-programming-techjourney-activity-7193927783599771649-sUnR?utm_source=share&utm_medium=member_desktop'>Recently, I've been exploring TypeScript, and let me tell you, it's been quite the adventure! 🚀💻</a>
